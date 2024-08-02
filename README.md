@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Daniel Spinola and I am an undergrad for Software Engineering. Migrating from a carreer at sea as a Deck Officer.
+My name is Daniel Spinola and I am a Full Stack dev.
 
-I'm passionate about learning new things and I love to build software, from the concept to the architecture to the code.
+I'm passionate about learning new things and love building solutions, from the concept to the architecture to the code.
 
 
 
